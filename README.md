@@ -14,5 +14,5 @@ This project is a clone for todoist app
  - [] Adding your tasks in specific date (Today , next 7 days, indonx for no date)
  - [] Adding comments and subtasks
  - [] Create the database with firebase 
- - [] Dark and light mode
- - [] The will be responsive 
+ - [x] Dark and light mode
+ - [x] The will be responsive 
